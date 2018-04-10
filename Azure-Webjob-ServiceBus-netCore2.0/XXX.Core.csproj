@@ -1,3 +1,5 @@
+CLI - stuff
+
 EF-Migration
 > dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 > dotnet add package Microsoft.EntityFrameworkCore.Tools 
