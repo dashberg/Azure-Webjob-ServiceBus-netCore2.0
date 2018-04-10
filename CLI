@@ -14,3 +14,9 @@ ServiceBus
 
 WebJoobs
 > dotnet add package Microsoft.Azure.WebJobs --version 3.0.0-beta5 
+
+DI Configuration
+> dotnet add package Microsoft.Extensions.DependencyInjection
+> dotnet add package Microsoft.Extensions.Configuration
+> dotnet add package Microsoft.Extensions.Configuration.Json
+> dotnet add package Microsoft.Extensions.Options.ConfigurationExtensions
